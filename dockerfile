@@ -5,4 +5,4 @@ WORKDIR /app
 
 COPY . .
 
-CMD ["python", "/app/Password.py"]
+CMD ["python", "/app/test.py"]

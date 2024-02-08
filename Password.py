@@ -13,4 +13,3 @@ for pwd in range(Number):
 		passwords += random.choice(chars)
 	print(passwords)
  
-print("test container") 
